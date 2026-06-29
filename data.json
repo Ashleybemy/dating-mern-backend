@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Exploring the Hidden Gems of Paris",
+      "date": "2023-06-02",
+      "author": "Jane Doe",
+      "content": "Paris is known for its iconic landmarks like the Eiffel Tower and Louvre, but the city also hides some lesser-known treasures.",
+      "comments": [
+        {
+          "commenter": "Alex",
+          "date": "2023-06-03",
+          "content": "Absolutely love this guide!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Evolution of Web Development",
+      "date": "2023-06-03",
+      "author": "John Smith",
+      "content": "Web development has significantly evolved over the past few decades.",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "comments": [],
+      "title": "OAuth Test Article",
+      "date": "2026-06-17",
+      "author": "Postman Tester",
+      "content": "This article is created with a Facebook OAuth JWT token."
+    },
+    {
+      "id": 4,
+      "comments": [],
+      "title": "OAuth Test Article",
+      "date": "2026-06-17",
+      "author": "Postman Tester",
+      "content": "This article is created with a Facebook OAuth JWT token."
+    },
+    {
+      "id": 5,
+      "comments": [],
+      "title": "OAuth Test Article",
+      "date": "2026-06-17",
+      "author": "Postman Tester",
+      "content": "This article is created with a Facebook OAuth JWT token."
+    },
+    {
+      "id": 6,
+      "comments": [],
+      "title": "OAuth Test Article",
+      "date": "2026-06-17",
+      "author": "Postman Tester",
+      "content": "This article is created with a Facebook OAuth JWT token."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Exploring the Hidden Gems of Paris",
+      "date": "2023-06-02",
+      "author": "Jane Doe",
+      "video": "https://www.youtube.com/embed/hLluNp5xlJE",
+      "content": "Paris travel video.",
+      "comments": []
+    }
+  ]
+}

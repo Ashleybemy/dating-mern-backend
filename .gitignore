@@ -1,0 +1,9 @@
+node_modules/
+.env
+certs/*.pem
+server.log
+server.err.log
+npm-debug.log*
+uploads/
+public/images/*
+!public/images/.gitkeep
