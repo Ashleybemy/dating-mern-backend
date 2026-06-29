@@ -23,7 +23,7 @@ function requireGoogleConfig(req, res, next) {
 googleAuthRouter.get(
   '/google',
   requireGoogleConfig,
-  passport.authenticate('google', { scope: ['profile'] })
+  passport.authenticate('google', { scope: ['profile', 'email'] })
 );
 
 googleAuthRouter.get(
